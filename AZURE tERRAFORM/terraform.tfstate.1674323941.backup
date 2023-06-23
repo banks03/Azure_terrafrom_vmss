@@ -1,0 +1,683 @@
+{
+  "version": 4,
+  "terraform_version": "1.3.7",
+  "serial": 84,
+  "lineage": "b54a9b8a-ffc0-e29e-223d-6757b2bc0cae",
+  "outputs": {
+    "admin_ssh_key_private": {
+      "value": "-----BEGIN RSA PRIVATE KEY-----\n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\n-----END RSA PRIVATE KEY-----\n",
+      "type": "string",
+      "sensitive": true
+    },
+    "admin_ssh_key_public": {
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC0CsFkuOwJNhrf0L+nRDQQQ6B0G2/HeNJv3hNP70NKrM64KmIuD5TStBeoef7mml4HDxPEHgAN8DAeRpCjrfXEfXDxlUd/AmAYc2Buzbv7SARP29kt3fxEvvWZjs9uEneYwZa/KZ6uC62f/Rru9hphj+s3+8HbTQe8WVoO9IOqFwbTR4UalCO8z8Um3PjMBFbEQTLtO/gdfoldCkYOz1QzwE05RCWXak5RTP9NL2s+hkEmy1/OYGWiCwXb/TUIZ6sVmB0fB0pv7wO/4VzVvjpH13ZPbcx0FKaSu0vqAb9DQItYQICgiv+yr/zZihZ1k6CR9iM8I0HjOp/fsIEKvhKAL0Wd02RvdOBH2xAeQyLLSobknQT+eHkBXZW9+UvU4/20avEDY54chFcO1wjz2sbCHO8ROCNyWgqvX0E6cFpg0LAwyvvYiSkd4gEZbP/xP1m7BjLx25QaNyiGk7rz7SR/wcgMBbu8Fm3BzeUbTMuPgFWl09GwfTA4UUhYRTQ2Fs7P87yfUcGfyman+WA3mU4K+ULYnJvkEIDe94REPSG9kj8iNCAFHcHC0AkpjEFa/YatVa9nCZyrGOO75eU1sufRrf0BuSPbAtJQmUX4WgevZv9av37HYc0thhdYYVrSiZ3dN8TzTbeHl1Il3MmF3yR/rCraFZkqkzuWrsSWZC+HJQ==\n",
+      "type": "string"
+    },
+    "linux_virtual_machine_scale_set_name": {
+      "value": "vmassessmentvmss1",
+      "type": "string"
+    },
+    "load_balancer_public_ip": {
+      "value": "20.163.189.186",
+      "type": "string"
+    },
+    "network_security_group_id": {
+      "value": [
+        "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Network/networkSecurityGroups/nsg_assessment-vmss_eastus_in"
+      ],
+      "type": [
+        "tuple",
+        [
+          "string"
+        ]
+      ]
+    },
+    "workspace_id": {
+      "value": "fdcc8817-8550-4038-8790-2868b9ab1e7b",
+      "type": "string"
+    }
+  },
+  "resources": [
+    {
+      "mode": "data",
+      "type": "azurerm_resource_group",
+      "name": "assessment",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2",
+            "location": "eastus",
+            "name": "assessment2",
+            "tags": {},
+            "timeouts": null
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_lb",
+      "name": "vmsslb",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_lb_backend_address_pool",
+      "name": "bepool",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_lb_nat_pool",
+      "name": "natpol",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_lb_probe",
+      "name": "lbp",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_lb_rule",
+      "name": "lbrule",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_linux_virtual_machine_scale_set",
+      "name": "linux_vmss",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_log_analytics_workspace",
+      "name": "workspace",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "schema_version": 2,
+          "attributes": {
+            "allow_resource_only_permissions": true,
+            "cmk_for_query_forced": false,
+            "daily_quota_gb": -1,
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.OperationalInsights/workspaces/assessment-vmss-log-analytics-workspace",
+            "internet_ingestion_enabled": true,
+            "internet_query_enabled": true,
+            "location": "eastus",
+            "name": "assessment-vmss-log-analytics-workspace",
+            "primary_shared_key": "eqPz3SshXE/HtMxFXN2Dz0cvvD/atLqOL30H8ySBlEv+Ey711f53YGcjI6detPdkzHELl1RlJsYOj+LJowxaTQ==",
+            "reservation_capacity_in_gb_per_day": null,
+            "resource_group_name": "assessment2",
+            "retention_in_days": 30,
+            "secondary_shared_key": "6EMrKRv+b06QWpyJdFU8rXki75HmoS9RmL2X7/KCjiuCi8+rCZ5gEsekczJFWGQEUrdrVjXVZJAeVvVqpTXAjw==",
+            "sku": "PerGB2018",
+            "tags": {},
+            "timeouts": null,
+            "workspace_id": "fdcc8817-8550-4038-8790-2868b9ab1e7b"
+          },
+          "sensitive_attributes": [],
+          "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjoxODAwMDAwMDAwMDAwLCJkZWxldGUiOjE4MDAwMDAwMDAwMDAsInJlYWQiOjMwMDAwMDAwMDAwMCwidXBkYXRlIjoxODAwMDAwMDAwMDAwfSwic2NoZW1hX3ZlcnNpb24iOiIyIn0=",
+          "dependencies": [
+            "data.azurerm_resource_group.assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_monitor_autoscale_setting",
+      "name": "auto",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_monitor_diagnostic_setting",
+      "name": "lb",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_monitor_diagnostic_setting",
+      "name": "lb-pip",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "index_key": 0,
+          "schema_version": 0,
+          "attributes": {
+            "enabled_log": [
+              {
+                "category": "DDoSMitigationFlowLogs",
+                "category_group": "",
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              },
+              {
+                "category": "DDoSMitigationReports",
+                "category_group": "",
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              },
+              {
+                "category": "DDoSProtectionNotifications",
+                "category_group": "",
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              }
+            ],
+            "eventhub_authorization_rule_id": "",
+            "eventhub_name": "",
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Network/publicIPAddresses/pip-vm-assessment-vmss-eastus-01|assessment-vmss-pip-diag",
+            "log": [
+              {
+                "category": "DDoSMitigationFlowLogs",
+                "category_group": "",
+                "enabled": true,
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              },
+              {
+                "category": "DDoSMitigationReports",
+                "category_group": "",
+                "enabled": true,
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              },
+              {
+                "category": "DDoSProtectionNotifications",
+                "category_group": "",
+                "enabled": true,
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              }
+            ],
+            "log_analytics_destination_type": "",
+            "log_analytics_workspace_id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.OperationalInsights/workspaces/assessment-vmss-log-analytics-workspace",
+            "metric": [
+              {
+                "category": "AllMetrics",
+                "enabled": true,
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              }
+            ],
+            "name": "assessment-vmss-pip-diag",
+            "partner_solution_id": null,
+            "storage_account_id": null,
+            "target_resource_id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Network/publicIPAddresses/pip-vm-assessment-vmss-eastus-01",
+            "timeouts": null
+          },
+          "sensitive_attributes": [],
+          "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjoxODAwMDAwMDAwMDAwLCJkZWxldGUiOjM2MDAwMDAwMDAwMDAsInJlYWQiOjMwMDAwMDAwMDAwMCwidXBkYXRlIjoxODAwMDAwMDAwMDAwfX0=",
+          "dependencies": [
+            "azurerm_log_analytics_workspace.workspace",
+            "azurerm_public_ip.pip"
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_monitor_diagnostic_setting",
+      "name": "nsg",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "index_key": 0,
+          "schema_version": 0,
+          "attributes": {
+            "enabled_log": [
+              {
+                "category": "NetworkSecurityGroupEvent",
+                "category_group": "",
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              },
+              {
+                "category": "NetworkSecurityGroupRuleCounter",
+                "category_group": "",
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              }
+            ],
+            "eventhub_authorization_rule_id": "",
+            "eventhub_name": "",
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Network/networkSecurityGroups/nsg_assessment-vmss_eastus_in|nsg-assessment-vmss-diag",
+            "log": [
+              {
+                "category": "NetworkSecurityGroupEvent",
+                "category_group": "",
+                "enabled": true,
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              },
+              {
+                "category": "NetworkSecurityGroupRuleCounter",
+                "category_group": "",
+                "enabled": true,
+                "retention_policy": [
+                  {
+                    "days": 0,
+                    "enabled": false
+                  }
+                ]
+              }
+            ],
+            "log_analytics_destination_type": "",
+            "log_analytics_workspace_id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.OperationalInsights/workspaces/assessment-vmss-log-analytics-workspace",
+            "metric": [],
+            "name": "nsg-assessment-vmss-diag",
+            "partner_solution_id": null,
+            "storage_account_id": null,
+            "target_resource_id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Network/networkSecurityGroups/nsg_assessment-vmss_eastus_in",
+            "timeouts": null
+          },
+          "sensitive_attributes": [],
+          "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjoxODAwMDAwMDAwMDAwLCJkZWxldGUiOjM2MDAwMDAwMDAwMDAsInJlYWQiOjMwMDAwMDAwMDAwMCwidXBkYXRlIjoxODAwMDAwMDAwMDAwfX0=",
+          "dependencies": [
+            "azurerm_log_analytics_workspace.workspace",
+            "azurerm_network_security_group.nsg"
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_monitor_diagnostic_setting",
+      "name": "vmmsdiag",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_network_security_group",
+      "name": "nsg",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "index_key": 0,
+          "schema_version": 0,
+          "attributes": {
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Network/networkSecurityGroups/nsg_assessment-vmss_eastus_in",
+            "location": "eastus",
+            "name": "nsg_assessment-vmss_eastus_in",
+            "resource_group_name": "assessment2",
+            "security_rule": [],
+            "tags": {},
+            "timeouts": null
+          },
+          "sensitive_attributes": [],
+          "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjoxODAwMDAwMDAwMDAwLCJkZWxldGUiOjE4MDAwMDAwMDAwMDAsInJlYWQiOjMwMDAwMDAwMDAwMCwidXBkYXRlIjoxODAwMDAwMDAwMDAwfX0=",
+          "dependencies": [
+            "data.azurerm_resource_group.assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_network_security_rule",
+      "name": "nsg_rule",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_proximity_placement_group",
+      "name": "appgrp",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "index_key": 0,
+          "schema_version": 0,
+          "attributes": {
+            "allowed_vm_sizes": [],
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Compute/proximityPlacementGroups/proxigrp-assessment-vmss-eastus",
+            "location": "eastus",
+            "name": "proxigrp-assessment-vmss-eastus",
+            "resource_group_name": "assessment2",
+            "tags": {},
+            "timeouts": null,
+            "zone": ""
+          },
+          "sensitive_attributes": [],
+          "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjoxODAwMDAwMDAwMDAwLCJkZWxldGUiOjE4MDAwMDAwMDAwMDAsInJlYWQiOjMwMDAwMDAwMDAwMCwidXBkYXRlIjoxODAwMDAwMDAwMDAwfX0=",
+          "dependencies": [
+            "data.azurerm_resource_group.assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_public_ip",
+      "name": "pip",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "index_key": 0,
+          "schema_version": 0,
+          "attributes": {
+            "allocation_method": "Static",
+            "ddos_protection_mode": "VirtualNetworkInherited",
+            "ddos_protection_plan_id": null,
+            "domain_name_label": null,
+            "edge_zone": "",
+            "fqdn": null,
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Network/publicIPAddresses/pip-vm-assessment-vmss-eastus-01",
+            "idle_timeout_in_minutes": 4,
+            "ip_address": "20.163.189.186",
+            "ip_tags": {},
+            "ip_version": "IPv4",
+            "location": "eastus",
+            "name": "pip-vm-assessment-vmss-eastus-01",
+            "public_ip_prefix_id": null,
+            "resource_group_name": "assessment2",
+            "reverse_fqdn": null,
+            "sku": "Standard",
+            "sku_tier": "Regional",
+            "tags": {},
+            "timeouts": null,
+            "zones": []
+          },
+          "sensitive_attributes": [],
+          "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjoxODAwMDAwMDAwMDAwLCJkZWxldGUiOjE4MDAwMDAwMDAwMDAsInJlYWQiOjMwMDAwMDAwMDAwMCwidXBkYXRlIjoxODAwMDAwMDAwMDAwfX0=",
+          "dependencies": [
+            "data.azurerm_resource_group.assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_storage_account",
+      "name": "storeacc",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "schema_version": 3,
+          "attributes": {
+            "access_tier": "Hot",
+            "account_kind": "StorageV2",
+            "account_replication_type": "GRS",
+            "account_tier": "Standard",
+            "allow_nested_items_to_be_public": true,
+            "allowed_copy_scope": "",
+            "azure_files_authentication": [],
+            "blob_properties": [
+              {
+                "change_feed_enabled": false,
+                "change_feed_retention_in_days": 0,
+                "container_delete_retention_policy": [],
+                "cors_rule": [],
+                "default_service_version": "",
+                "delete_retention_policy": [],
+                "last_access_time_enabled": false,
+                "restore_policy": [],
+                "versioning_enabled": false
+              }
+            ],
+            "cross_tenant_replication_enabled": true,
+            "custom_domain": [],
+            "customer_managed_key": [],
+            "default_to_oauth_authentication": false,
+            "edge_zone": "",
+            "enable_https_traffic_only": true,
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment2/providers/Microsoft.Storage/storageAccounts/assessmentrackspacesa",
+            "identity": [],
+            "immutability_policy": [],
+            "infrastructure_encryption_enabled": false,
+            "is_hns_enabled": false,
+            "large_file_share_enabled": null,
+            "location": "eastus",
+            "min_tls_version": "TLS1_2",
+            "name": "assessmentrackspacesa",
+            "network_rules": [
+              {
+                "bypass": [
+                  "AzureServices"
+                ],
+                "default_action": "Allow",
+                "ip_rules": [],
+                "private_link_access": [],
+                "virtual_network_subnet_ids": []
+              }
+            ],
+            "nfsv3_enabled": false,
+            "primary_access_key": "cOpEFcKzrY9VI0bPV+J85NhAIq16RS42ULzr7aPaA+/S3USqgq0r81FcReK7PYXRw+Nmoz6dkwQi+AStKHFWmw==",
+            "primary_blob_connection_string": "DefaultEndpointsProtocol=https;BlobEndpoint=https://assessmentrackspacesa.blob.core.windows.net/;AccountName=assessmentrackspacesa;AccountKey=cOpEFcKzrY9VI0bPV+J85NhAIq16RS42ULzr7aPaA+/S3USqgq0r81FcReK7PYXRw+Nmoz6dkwQi+AStKHFWmw==",
+            "primary_blob_endpoint": "https://assessmentrackspacesa.blob.core.windows.net/",
+            "primary_blob_host": "assessmentrackspacesa.blob.core.windows.net",
+            "primary_connection_string": "DefaultEndpointsProtocol=https;AccountName=assessmentrackspacesa;AccountKey=cOpEFcKzrY9VI0bPV+J85NhAIq16RS42ULzr7aPaA+/S3USqgq0r81FcReK7PYXRw+Nmoz6dkwQi+AStKHFWmw==;EndpointSuffix=core.windows.net",
+            "primary_dfs_endpoint": "https://assessmentrackspacesa.dfs.core.windows.net/",
+            "primary_dfs_host": "assessmentrackspacesa.dfs.core.windows.net",
+            "primary_file_endpoint": "https://assessmentrackspacesa.file.core.windows.net/",
+            "primary_file_host": "assessmentrackspacesa.file.core.windows.net",
+            "primary_location": "eastus",
+            "primary_queue_endpoint": "https://assessmentrackspacesa.queue.core.windows.net/",
+            "primary_queue_host": "assessmentrackspacesa.queue.core.windows.net",
+            "primary_table_endpoint": "https://assessmentrackspacesa.table.core.windows.net/",
+            "primary_table_host": "assessmentrackspacesa.table.core.windows.net",
+            "primary_web_endpoint": "https://assessmentrackspacesa.z13.web.core.windows.net/",
+            "primary_web_host": "assessmentrackspacesa.z13.web.core.windows.net",
+            "public_network_access_enabled": true,
+            "queue_encryption_key_type": "Service",
+            "queue_properties": [
+              {
+                "cors_rule": [],
+                "hour_metrics": [
+                  {
+                    "enabled": true,
+                    "include_apis": true,
+                    "retention_policy_days": 7,
+                    "version": "1.0"
+                  }
+                ],
+                "logging": [
+                  {
+                    "delete": false,
+                    "read": false,
+                    "retention_policy_days": 0,
+                    "version": "1.0",
+                    "write": false
+                  }
+                ],
+                "minute_metrics": [
+                  {
+                    "enabled": false,
+                    "include_apis": false,
+                    "retention_policy_days": 0,
+                    "version": "1.0"
+                  }
+                ]
+              }
+            ],
+            "resource_group_name": "assessment2",
+            "routing": [],
+            "sas_policy": [],
+            "secondary_access_key": "uCL7H895NgCcXQnCMp9VOjf//V2TTz4NtMyaMfX3PXbVgRq/zPaQHFaR9kfAA9JwMmlpqSi6L2zj+AStINy/dQ==",
+            "secondary_blob_connection_string": "",
+            "secondary_blob_endpoint": null,
+            "secondary_blob_host": null,
+            "secondary_connection_string": "DefaultEndpointsProtocol=https;AccountName=assessmentrackspacesa;AccountKey=uCL7H895NgCcXQnCMp9VOjf//V2TTz4NtMyaMfX3PXbVgRq/zPaQHFaR9kfAA9JwMmlpqSi6L2zj+AStINy/dQ==;EndpointSuffix=core.windows.net",
+            "secondary_dfs_endpoint": null,
+            "secondary_dfs_host": null,
+            "secondary_file_endpoint": null,
+            "secondary_file_host": null,
+            "secondary_location": "westus",
+            "secondary_queue_endpoint": null,
+            "secondary_queue_host": null,
+            "secondary_table_endpoint": null,
+            "secondary_table_host": null,
+            "secondary_web_endpoint": null,
+            "secondary_web_host": null,
+            "sftp_enabled": false,
+            "share_properties": [
+              {
+                "cors_rule": [],
+                "retention_policy": [
+                  {
+                    "days": 7
+                  }
+                ],
+                "smb": []
+              }
+            ],
+            "shared_access_key_enabled": true,
+            "static_website": [],
+            "table_encryption_key_type": "Service",
+            "tags": {},
+            "timeouts": null
+          },
+          "sensitive_attributes": [],
+          "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjozNjAwMDAwMDAwMDAwLCJkZWxldGUiOjM2MDAwMDAwMDAwMDAsInJlYWQiOjMwMDAwMDAwMDAwMCwidXBkYXRlIjozNjAwMDAwMDAwMDAwfSwic2NoZW1hX3ZlcnNpb24iOiIzIn0=",
+          "dependencies": [
+            "data.azurerm_resource_group.assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_subnet",
+      "name": "snet",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_virtual_machine_scale_set_extension",
+      "name": "omsagentlinux",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "azurerm_virtual_network",
+      "name": "test",
+      "provider": "provider[\"registry.terraform.io/hashicorp/azurerm\"]",
+      "instances": [
+        {
+          "schema_version": 0,
+          "attributes": {
+            "address_space": [
+              "10.0.0.0/16"
+            ],
+            "bgp_community": "",
+            "ddos_protection_plan": [],
+            "dns_servers": [],
+            "edge_zone": "",
+            "flow_timeout_in_minutes": 0,
+            "guid": "f4efbc6c-9e2a-4d95-8161-c840d3c4b83c",
+            "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment/providers/Microsoft.Network/virtualNetworks/assessment-vnet",
+            "location": "eastus",
+            "name": "assessment-vnet",
+            "resource_group_name": "assessment",
+            "subnet": [
+              {
+                "address_prefix": "10.0.3.0/26",
+                "id": "/subscriptions/695dbe0c-d23f-444d-8dcc-ebeea8f1aabe/resourceGroups/assessment/providers/Microsoft.Network/virtualNetworks/assessment-vnet/subnets/AzureBastionSubnet",
+                "name": "AzureBastionSubnet",
+                "security_group": ""
+              }
+            ],
+            "tags": {},
+            "timeouts": null
+          },
+          "sensitive_attributes": [],
+          "private": "eyJlMmJmYjczMC1lY2FhLTExZTYtOGY4OC0zNDM2M2JjN2M0YzAiOnsiY3JlYXRlIjoxODAwMDAwMDAwMDAwLCJkZWxldGUiOjE4MDAwMDAwMDAwMDAsInJlYWQiOjMwMDAwMDAwMDAwMCwidXBkYXRlIjoxODAwMDAwMDAwMDAwfX0=",
+          "dependencies": [
+            "data.azurerm_resource_group.assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "mode": "managed",
+      "type": "random_password",
+      "name": "passwd",
+      "provider": "provider[\"registry.terraform.io/hashicorp/random\"]",
+      "instances": []
+    },
+    {
+      "mode": "managed",
+      "type": "tls_private_key",
+      "name": "rsa",
+      "provider": "provider[\"registry.terraform.io/hashicorp/tls\"]",
+      "instances": [
+        {
+          "index_key": 0,
+          "schema_version": 1,
+          "attributes": {
+            "algorithm": "RSA",
+            "ecdsa_curve": "P224",
+            "id": "6f415cdda1fa9993a894435fd5ee3cffe61b8d04",
+            "private_key_openssh": "-----BEGIN OPENSSH PRIVATE KEY-----\n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\n-----END OPENSSH PRIVATE KEY-----\n",
+            "private_key_pem": "-----BEGIN RSA PRIVATE KEY-----\n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\n-----END RSA PRIVATE KEY-----\n",
+            "private_key_pem_pkcs8": "-----BEGIN PRIVATE KEY-----\n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\nr7oOuh7k8H3xeVhismD4xkxjUqCWA1Hk\n-----END PRIVATE KEY-----\n",
+            "public_key_fingerprint_md5": "57:ad:8f:16:20:25:03:93:66:94:61:a3:11:e7:23:34",
+            "public_key_fingerprint_sha256": "SHA256:hnrqWTN94Yw8VrXDdYy6G5a+f0iM7t/mFuPULk31O3A",
+            "public_key_openssh": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC0CsFkuOwJNhrf0L+nRDQQQ6B0G2/HeNJv3hNP70NKrM64KmIuD5TStBeoef7mml4HDxPEHgAN8DAeRpCjrfXEfXDxlUd/AmAYc2Buzbv7SARP29kt3fxEvvWZjs9uEneYwZa/KZ6uC62f/Rru9hphj+s3+8HbTQe8WVoO9IOqFwbTR4UalCO8z8Um3PjMBFbEQTLtO/gdfoldCkYOz1QzwE05RCWXak5RTP9NL2s+hkEmy1/OYGWiCwXb/TUIZ6sVmB0fB0pv7wO/4VzVvjpH13ZPbcx0FKaSu0vqAb9DQItYQICgiv+yr/zZihZ1k6CR9iM8I0HjOp/fsIEKvhKAL0Wd02RvdOBH2xAeQyLLSobknQT+eHkBXZW9+UvU4/20avEDY54chFcO1wjz2sbCHO8ROCNyWgqvX0E6cFpg0LAwyvvYiSkd4gEZbP/xP1m7BjLx25QaNyiGk7rz7SR/wcgMBbu8Fm3BzeUbTMuPgFWl09GwfTA4UUhYRTQ2Fs7P87yfUcGfyman+WA3mU4K+ULYnJvkEIDe94REPSG9kj8iNCAFHcHC0AkpjEFa/YatVa9nCZyrGOO75eU1sufRrf0BuSPbAtJQmUX4WgevZv9av37HYc0thhdYYVrSiZ3dN8TzTbeHl1Il3MmF3yR/rCraFZkqkzuWrsSWZC+HJQ==\n",
+            "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAtArBZLjsCTYa39C/p0Q0\nEEOgdBtvx3jSb94TT+9DSqzOuCpiLg+U0rQXqHn+5ppeBw8TxB4ADfAwHkaQo631\nxH1w8ZVHfwJgGHNgbs27+0gET9vZLd38RL71mY7PbhJ3mMGWvymergutn/0a7vYa\nYY/rN/vB200HvFlaDvSDqhcG00eFGpQjvM/FJtz4zARWxEEy7Tv4HX6JXQpGDs9U\nM8BNOUQll2pOUUz/TS9rPoZBJstfzmBlogsF2/01CGerFZgdHwdKb+8Dv+Fc1b46\nR9d2T23MdBSmkrtL6gG/Q0CLWECAoIr/sq/82YoWdZOgkfYjPCNB4zqf37CBCr4S\ngC9FndNkb3TgR9sQHkMiy0qG5J0E/nh5AV2VvflL1OP9tGrxA2OeHIRXDtcI89rG\nwhzvETgjcloKr19BOnBaYNCwMMr72IkpHeIBGWz/8T9ZuwYy8duUGjcohpO68+0k\nf8HIDAW7vBZtwc3lG0zLj4BVpdPRsH0wOFFIWEU0NhbOz/O8n1HBn8pmp/lgN5lO\nCvlC2Jyb5BCA3veERD0hvZI/IjQgBR3BwtAJKYxBWv2GrVWvZwmcqxjju+XlNbLn\n0a39Abkj2wLSUJlF+FoHr2b/Wr9+x2HNLYYXWGFa0omd3TfE8023h5dSJdzJhd8k\nf6wq2hWZKpM7lq7ElmQvhyUCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+            "rsa_bits": 4096
+          },
+          "sensitive_attributes": []
+        }
+      ]
+    }
+  ],
+  "check_results": null
+}
